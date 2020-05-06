@@ -18,7 +18,10 @@ This is my one of my first data science projects and it was made with python. Th
         5. Correlations and conclusion
    5. Preprocessing
         1. Missing values
-        2. Scaling
-        3. Encoding
-2. Model creation
-3. Submission
+        2. Categorical features
+2. Baseline model
+3. Feature creation
+4. Model with new features
+5. Hyper-parameter tunning
+6. Submission
+
